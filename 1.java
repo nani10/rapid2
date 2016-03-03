@@ -8,4 +8,5 @@ class first
 		System.out.println("First Program for Git");
 	}
 }
-
+//output:
+First Program for Git
